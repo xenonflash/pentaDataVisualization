@@ -1,0 +1,5 @@
+D:\c#dev\penta data visiualization 1.5\debug\bin\Release\debug.exe.config
+D:\c#dev\penta data visiualization 1.5\debug\bin\Release\debug.exe
+D:\c#dev\penta data visiualization 1.5\debug\obj\Release\debug.exe
+D:\c#dev\penta data visiualization 1.5\debug\bin\Release\debug.exe.CodeAnalysisLog.xml
+D:\c#dev\penta data visiualization 1.5\debug\bin\Release\debug.exe.lastcodeanalysissucceeded

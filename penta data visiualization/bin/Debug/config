@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	
+	<alarmPath>c:\alarm\</alarmPath>
+	<dbPath>c:\pensoft\history.mdb</dbPath>
+	<lotInfo_TBname>lot Info</lotInfo_TBname>
+	<oeeInfo_TBname>oee Info</oeeInfo_TBname>
+	
+</configuration>

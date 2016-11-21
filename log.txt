@@ -1,0 +1,37 @@
+1.1
+   - oringal verision
+1.2
+   - add jam bubble chart
+1.3
+   - add read history function
+
+1.4_3/10/2016
+   - add down time chart
+   - add export function
+   - fixed file dog event bug by created a cross-thread delegate.   
+   - add history chart function
+	-UPH chart
+	-utest yield chart
+	-top vision yield chart
+
+1.5.0.3  3/19/2016
+   - add export mdb function
+   - add icon
+   - add net top vision yield calculation method.
+
+1.5.0.4   4/1/2016
+   -fixed bug: change Down time to "double" to avoid devided by 0
+   -fixed bug: once the machine cycle value is not 10-digit, a alarm "bad string formate" will happed
+		(fixed by using 'split str' method instead of'index of' method to get the right mechine cycle value)
+
+1.5.0.5   5/25/2016
+   - fixed bug: if one jam record down time is 00:00:00, a alarm "Index out of range" will happen
+		(fixed by: limit jam name array length by 'orderedDownTime' indtead of 'orderedJamSum'
+
+1.5.0.6   6/6/2016  
+   - fixed bug: if the first row of log file does not contain machine cycle string, will alarm"index out of range"
+		(fixed by: change to a smarter method to get machine cycle: software will test each row to find the first 		row contain machine cycle string)
+
+   
+
+	

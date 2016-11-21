@@ -1,0 +1,31 @@
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\bin\Release\penta data visiualization.exe.config
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\bin\Release\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\obj\Release\penta_data_visiualization.lotInfo.resources
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\obj\Release\penta_data_visiualization.MainForm.resources
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\obj\Release\penta data visiualization.csproj.GenerateResource.Cache
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\obj\Release\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\bin\Release\penta data visiualization.exe.config
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Release\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\bin\Release\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\bin\Release\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\bin\Release\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Release\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Release\penta_data_visiualization.lotInfo.resources
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Release\penta_data_visiualization.MainForm.resources
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Release\penta data visiualization.csproj.GenerateResource.Cache
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Release\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Release\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Release\penta data visiualization.exe.config
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Release\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Release\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Release\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Release\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Release\penta_data_visiualization.lotInfo.resources
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Release\penta_data_visiualization.MainForm.resources
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Release\penta_data_visiualization.Properties.Resources.resources
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Release\penta data visiualization.csproj.GenerateResource.Cache
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Release\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Release\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Release\penta data visiualization.exe.CodeAnalysisLog.xml
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Release\penta data visiualization.exe.lastcodeanalysissucceeded
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Release\penta data visiualization.csprojResolveAssemblyReference.cache

@@ -1,0 +1,178 @@
+D:\dev\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\dev\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\dev\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\dev\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\dev\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\dev\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\dev\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\dev\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.pdb
+D:\dev\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.Form1.resources
+D:\c#\penta data visiualization\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\c#\penta data visiualization\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\c#\penta data visiualization\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\c#\penta data visiualization\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\c#\penta data visiualization\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.Form1.resources
+D:\c#\penta data visiualization\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\c#\penta data visiualization\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\c#\penta data visiualization\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\c#\penta data visiualization\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.pdb
+F:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+F:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.exe
+F:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.pdb
+F:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe
+F:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.pdb
+F:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+F:\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.Form1.resources
+F:\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+F:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+K:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+K:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.exe
+K:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.pdb
+K:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe
+K:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.pdb
+K:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+K:\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.Form1.resources
+K:\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+K:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.Form1.resources
+D:\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.pdb
+H:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+H:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.exe
+H:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.pdb
+H:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe
+H:\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.pdb
+H:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+H:\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.Form1.resources
+H:\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+H:\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+H:\penta data visiualizationxml\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+H:\penta data visiualizationxml\penta data visiualization\obj\Debug\penta data visiualization.exe
+H:\penta data visiualizationxml\penta data visiualization\obj\Debug\penta data visiualization.pdb
+H:\penta data visiualizationxml\penta data visiualization\bin\Debug\penta data visiualization.exe
+H:\penta data visiualizationxml\penta data visiualization\bin\Debug\penta data visiualization.pdb
+H:\penta data visiualizationxml\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+H:\penta data visiualizationxml\penta data visiualization\obj\Debug\penta_data_visiualization.Form1.resources
+H:\penta data visiualizationxml\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+H:\penta data visiualizationxml\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\Share\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\Share\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\Share\penta data visiualization\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\Share\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\Share\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.Form1.resources
+D:\Share\penta data visiualization\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\Share\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\Share\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\Share\penta data visiualization\penta data visiualization\obj\Debug\penta data visiualization.pdb
+D:\penta data visiualization 1.1\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\penta data visiualization 1.1\penta data visiualization\obj\Debug\penta_data_visiualization.Form1.resources
+D:\penta data visiualization 1.1\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\penta data visiualization 1.1\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\penta data visiualization 1.1\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\penta data visiualization 1.1\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\penta data visiualization 1.1\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\penta data visiualization 1.1\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\penta data visiualization 1.1\penta data visiualization\obj\Debug\penta data visiualization.pdb
+D:\penta data visiualization 1.2\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\penta data visiualization 1.2\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\penta data visiualization 1.2\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\penta data visiualization 1.2\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\penta data visiualization 1.2\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\penta data visiualization 1.2\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\penta data visiualization 1.2\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\penta data visiualization 1.2\penta data visiualization\obj\Debug\penta data visiualization.pdb
+D:\penta data visiualization 1.2\penta data visiualization\obj\Debug\penta_data_visiualization.lotInfo.resources
+D:\penta data visiualization 1.3\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\penta data visiualization 1.3\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\penta data visiualization 1.3\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta_data_visiualization.lotInfo.resources
+D:\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta_data_visiualization.lotInfo.resources
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.3\penta data visiualization\obj\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\bin\Debug\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\bin\Debug\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Debug\penta_data_visiualization.lotInfo.resources
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Debug\penta_data_visiualization.Properties.Resources.resources
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Debug\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Debug\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.4\penta data visiualization\obj\Debug\penta data visiualization.pdb
+G:\source code\penta data visiualization 1.5\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+G:\source code\penta data visiualization 1.5\penta data visiualization\bin\Debug\penta data visiualization.exe.manifest
+G:\source code\penta data visiualization 1.5\penta data visiualization\bin\Debug\penta data visiualization.application
+G:\source code\penta data visiualization 1.5\penta data visiualization\bin\Debug\penta data visiualization.exe
+G:\source code\penta data visiualization 1.5\penta data visiualization\bin\Debug\penta data visiualization.pdb
+G:\source code\penta data visiualization 1.5\penta data visiualization\obj\Debug\ResolveAssemblyReference.cache
+G:\source code\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta_data_visiualization.lotInfo.resources
+G:\source code\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+G:\source code\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta_data_visiualization.Properties.Resources.resources
+G:\source code\penta data visiualization 1.5\penta data visiualization\obj\Debug\GenerateResource.read.1.tlog
+G:\source code\penta data visiualization 1.5\penta data visiualization\obj\Debug\GenerateResource.write.1.tlog
+G:\source code\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta data visiualization.exe.manifest
+G:\source code\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta data visiualization.application
+G:\source code\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta data visiualization.exe
+G:\source code\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Debug\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Debug\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta_data_visiualization.lotInfo.resources
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta_data_visiualization.Properties.Resources.resources
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.5\penta data visiualization\obj\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\obj\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\bin\Debug\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\bin\Debug\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\obj\Debug\penta_data_visiualization.lotInfo.resources
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\obj\Debug\penta_data_visiualization.Properties.Resources.resources
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\obj\Debug\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.5.0.7\penta data visiualization\obj\Debug\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\bin\Debug\penta data visiualization.exe.config
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\obj\Debug\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\obj\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\bin\Debug\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\bin\Debug\penta data visiualization.application
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\bin\Debug\penta data visiualization.exe
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\bin\Debug\penta data visiualization.pdb
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\obj\Debug\penta data visiualization.csprojResolveAssemblyReference.cache
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\obj\Debug\penta_data_visiualization.lotInfo.resources
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\obj\Debug\penta_data_visiualization.MainForm.resources
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\obj\Debug\penta_data_visiualization.Properties.Resources.resources
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\obj\Debug\penta data visiualization.csproj.GenerateResource.Cache
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\obj\Debug\penta data visiualization.exe.manifest
+D:\c#dev\penta data visiualization 1.5.0.8\penta data visiualization\obj\Debug\penta data visiualization.application
